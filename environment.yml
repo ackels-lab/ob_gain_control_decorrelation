@@ -1,4 +1,4 @@
-name: io_decorrelation
+name: ob_gain_control_decorrelation
 channels:
   - conda-forge
   - defaults
