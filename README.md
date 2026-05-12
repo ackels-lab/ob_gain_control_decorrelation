@@ -6,7 +6,7 @@ This repository contains analysis code and datasets supporting our study:
 
 **Decorrelation by gain control in the mouse olfactory bulb**  
 
-<a href="https://www.biorxiv.org/cgi/content/short/2026.05.07.722633v1" target="_blank" rel="noopener noreferrer">
+<a href="https://www.biorxiv.org/cgi/content/short/2026.05.07.722633v1">
 Preprint link
 </a>
 ---
