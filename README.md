@@ -1,7 +1,6 @@
 # ob_gain_control_decorrelation
 
-Welcome to the ob_gain_control_decorrelation repo.
-
+Welcome to the ob_gain_control_decorrelation repo. 
 This repository contains analysis code and datasets supporting our study:
 
 **Decorrelation by gain control in the mouse olfactory bulb**  
